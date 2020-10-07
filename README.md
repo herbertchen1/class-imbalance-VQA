@@ -1,5 +1,5 @@
 # Loss-rescaling VQA: Revisiting Language Priors via A Class-imbalance View
-This repository is built upon the [code](https://github.com/Cyanogenoid/vqa-counting.git) provided by @Yan Zhang. Futher introduction will be given shortly.
+This repository is built upon the [code](https://github.com/hengyuan-hu/bottom-up-attention-vqa). Futher introduction will be given shortly.
 
 Almost all flags can be set by yourself at `utils/config.py`!
 
